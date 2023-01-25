@@ -1,0 +1,22 @@
+{
+  "alunos": [
+    {
+      "name": "Matheus",
+      "email": "Matheus@gmail.com",
+      "date": "2222-12-01",
+      "id": 1
+    },
+    {
+      "name": "Matheus",
+      "email": "Matheus@gmail.com",
+      "date": "2222-12-01",
+      "id": 2
+    },
+    {
+      "name": "Matheus",
+      "email": "Matheus@gmail.com",
+      "date": "2222-12-01",
+      "id": 3
+    }
+  ]
+}
