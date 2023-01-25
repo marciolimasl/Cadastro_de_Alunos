@@ -1,0 +1,25 @@
+.home {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 4em;
+}
+
+.home h1 {
+  font-size: 2.5em;
+}
+.home span {
+  background-color: rgb(252, 241, 121);
+  color: rgb(15, 15, 15);
+}
+
+.home p {
+  margin: 0.6em;
+}
+
+.home img {
+  margin-top: 1em;
+  width: 300px;
+}

@@ -1,0 +1,11 @@
+.btn {
+  background-color: #222;
+  color: #fff;
+  padding: 0.8em;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: rgb(65, 64, 64);
+}
